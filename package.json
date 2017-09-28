@@ -1,0 +1,25 @@
+{
+  "name": "andreweminov.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/andreweminov/andreweminov.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/andreweminov/andreweminov.github.io/issues"
+  },
+  "homepage": "https://github.com/andreweminov/andreweminov.github.io#readme",
+  "devDependencies": {
+    "autoprefixer": "^7.1.4",
+    "gulp": "^3.9.1",
+    "gulp-less": "^3.3.2",
+    "gulp-postcss": "^7.0.0"
+  }
+}
