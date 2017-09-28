@@ -522,8 +522,9 @@
     line-height: 1.5;
   }
   .content__submenu-for-mobile a {
-    color: blue;
+    color: black;
     text-decoration: underline;
+    font-weight: bold;
   }
   .content__link-for-mobile {
     display: inline-block;
@@ -545,8 +546,9 @@
     letter-spacing: 2px;
   }
   .content__block-refer-text {
-    width: 95%;
+    width: 100%;
     padding: 0px;
+    padding-bottom: 10px;
     display: -webkit-box;
     display: -webkit-flex;
     display: -moz-box;
@@ -567,9 +569,11 @@
   }
   .content__block-refer-text .text {
     font-size: 14px;
+    font-family: "Roboto-Black", fantasy;
   }
   .content__block-refer-text .subtext {
     font-size: 12px;
+    font-family: "Roboto-Regular", fantasy;
   }
   .content__block-description {
     width: auto;
@@ -577,6 +581,7 @@
   }
   .content__header-description {
     font-size: 14px;
+    font-family: "Roboto-Black", fantasy;
   }
   .content__paragraph-description {
     padding: 5px 0 25px 0;
